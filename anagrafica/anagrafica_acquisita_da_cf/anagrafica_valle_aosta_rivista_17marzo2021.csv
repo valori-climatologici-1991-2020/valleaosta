@@ -11,12 +11,12 @@ SiteID;SiteCode;SiteName;Bacino;Comune;Comunità montana;Est;Latitude;Località;
 14;1130;Cogne - Crétaz;torrente Grand'Eyvia;Cogne;Grand-Paradis;370693 m;45.6145;Crétaz;7.34048;5052759 m;No;1470;CF
 15;1140;Cogne - Lillaz;torrente Grand'Eyvia;Cogne;Grand-Paradis;374654 m;45.5951;Lillaz;7.39184;5050517 m;Si;1613;CF
 16;1150;Cogne - Valnontey;torrente Grand'Eyvia;Cogne;Grand-Paradis;370360 m;45.5855;Valnontey;7.33708;5049535 m;Si;1682;CF
-17;1160;Cogne - Grand-Crot;torrente Grand'Eyvia;Cogne;Grand-Paradis;372735 m;45588;Grand-Crot;7.36744;5049772 m;No;2279;CF
+17;1160;Cogne - Grand-Crot;torrente Grand'Eyvia;Cogne;Grand-Paradis;372735 m;45.588;Grand-Crot;7.36744;5049772 m;No;2279;CF
 18;1170;Courmayeur - Ferrachet;Dora di Ferret;Courmayeur;Valdigne-Mont-Blanc;346984 m;45.8668;Ferrachet;7.02754;5081340 m;No;2290;CF
 19;1190;Courmayeur - Lex Blanche;Dora di Veny;Courmayeur;Valdigne-Mont-Blanc;331991 m;45.7664;Lex Blanche;6.83826;5070560 m;No;2162;CF
-20;1200;Courmayeur - Mont de la Saxe;Dora Baltea;Courmayeur;Valdigne-Mont-Blanc;343313 m;45817;Mont de la Saxe;6.98204;5075894 m;No;2076;CF
+20;1200;Courmayeur - Mont de la Saxe;Dora Baltea;Courmayeur;Valdigne-Mont-Blanc;343313 m;45.817;Mont de la Saxe;6.98204;5075894 m;No;2076;CF
 21;1220;Courmayeur - Pré-de-Bard;Dora di Ferret;Courmayeur;Valdigne-Mont-Blanc;349957 m;45.8843;Pré-de-Bard;7.06523;5083214 m;No;2040;CF
-22;1230;Fénis - Clavalité;torrente Clavalité;Fénis;Mont-Emilius;383324 m;45686;Clavalité;7.50058;5060455 m;No;1531;CF
+22;1230;Fénis - Clavalité;torrente Clavalité;Fénis;Mont-Emilius;383324 m;45.686;Clavalité;7.50058;5060455 m;No;1531;CF
 23;1240;Fénis - Lavodilec;torrente Clavalité;Fénis;Mont-Emilius;382035 m;45.6448;Lavodilec;7.48514;5055901 m;No;2250;CF
 24;1250;Gressan - Pila-Leissé;Dora Baltea;Gressan;Mont-Emilius;368343 m;45.6643;Pila-Leissé;7.30885;5058342 m;No;2280;CF
 25;1260;Gressoney-la-Trinité - Alpe Courtlys;torrente Lys;Gressoney-La-Trinité;Walser;407535 m;45.8683;Alpe Courtlys;7.80761;5080305 m;No;1992;CF
@@ -36,7 +36,7 @@ SiteID;SiteCode;SiteName;Bacino;Comune;Comunità montana;Est;Latitude;Località;
 46;1490;Pré-Saint-Didier - Capoluogo;Dora di La Thuile;Pré-Saint-Didier;Valdigne-Mont-Blanc;343841 m;45.7629;Capoluogo;6.99078;5069871 m;Si;996;CF
 47;1500;Pré-Saint-Didier - Plan Praz;Dora di La Thuile;Pré-Saint-Didier;Valdigne-Mont-Blanc;340838 m;45.7549;Plan-Praz;6.95245;5069054 m;No;2044;CF
 48;1520;Rhêmes-Notre-Dame - Chanavey;Dora di Rhêmes;Rhêmes-Notre-Dame;Grand-Paradis;353673 m;45.5788;Chanavey;7.12338;5049164 m;Si;1690;CF
-49;1530;Rhêmes-Saint-Georges - Feleumaz;Dora di Rhêmes;Rhêmes-Saint-Georges;Grand-Paradis;353677 m;45607;Feleumaz;7.12249;5052293 m;No;2325;CF
+49;1530;Rhêmes-Saint-Georges - Feleumaz;Dora di Rhêmes;Rhêmes-Saint-Georges;Grand-Paradis;353677 m;45.607;Feleumaz;7.12249;5052293 m;No;2325;CF
 50;1550;Rhêmes-Saint-Georges - Capoluogo;Dora di Rhêmes;Rhêmes-Saint-Georges;Grand-Paradis;356133 m;45.6497;Capoluogo;7.15259;5056984 m;Si;1179;CF
 52;1570;Saint-Oyen - Moulin;torrente Artanavaz;Saint-Oyen;Grand-Combin;360932 m;45.8209;Moulin;7.20871;5075905 m;No;1310;CF
 54;1590;Saint-Rhémy-en-Bosses - Crévacol;torrente Artanavaz;Saint-Rhémy-en-Bosses;Grand-Combin;356850 m;45.8291;Crévacol;7.15589;5076908 m;Si;2018;CF
@@ -50,7 +50,7 @@ SiteID;SiteCode;SiteName;Bacino;Comune;Comunità montana;Est;Latitude;Località;
 64;1700;Valtournenche - Lago Goillet;torrente Marmore;Valtournenche;Mont Cervin;396405 m;45.9313;Lago Goillet;7.66271;5087484 m;Si;2541;CF
 65;1710;Valtournenche - Grandes Murailles;torrente Marmore;Valtournenche;Mont Cervin;391771 m;45.9295;Grandes Murailles;7.60298;5087361 m;No;2566;CF
 66;1720;Valtournenche - Maen;torrente Marmore;Valtournenche;Mont-Cervin;392273 m;45.8626;Maen;7.61112;5079914 m;No;1310;CF
-67;1730;Ayas - Alpe Aventine;torrente Evançon;Ayas;Evançon;400685 m;45874;Alpe Aventine;7.71923;5081040 m;No;2080;CF
+67;1730;Ayas - Alpe Aventine;torrente Evançon;Ayas;Evançon;400685 m;45.874;Alpe Aventine;7.71923;5081040 m;No;2080;CF
 68;1740;"Pré-Saint-Didier - Capoluogo ""Valle""";Dora Baltea;Pré-Saint-Didier;Valdigne-Mont-Blanc;343929 m;45.7632;Ponte di Mombardone;6.9919;5069894 m;No;995;CF
 77;3000;Verrès - Capoluogo;Dora Baltea;Verrès;Evançon;397732 m;45.6651;Capoluogo;7.6861;5057882 m;Si;375;CF
 78;3010;Saint-Denis - Raffort;Dora Baltea;Saint-Denis;Mont-Cervin;389355 m;45.7499;Raffort;7.57641;5067441 m;Si;840;CF
@@ -67,12 +67,12 @@ SiteID;SiteCode;SiteName;Bacino;Comune;Comunità montana;Est;Latitude;Località;
 97;3600;Ayas - Champoluc;torrente Evançon;Ayas;Evançon;401316 m;45.8368;Ayas;7.72821;5076897 m;Si;1566;CF
 98;4090;Saint-Christophe - Aeroporto;Dora Baltea;Saint-Christophe;Mont-Emilius;372766 m;45.7393;Aeroporto;7.36344;5066581 m;Si;545;CF
 99;1760;Hône - Ayasse;torrente Ayasse;Hône;Mont-Rose;401274 m;45.6117;Capoluogo;7.73277;5051890 m;No;367;CF
-100;2500;Arvier - Cooperativa Enfer;Dora Baltea;Arvier;Grand-Paradis;357318 m;45705;Cooperativa Enfer;7.16599;5063106 m;No;738;CF
+100;2500;Arvier - Cooperativa Enfer;Dora Baltea;Arvier;Grand-Paradis;357318 m;45.705;Cooperativa Enfer;7.16599;5063106 m;No;738;CF
 101;2510;Jovençan - Pompiod;Dora Baltea;Jovençan;Grand-Paradis;365058 m;45.7087;Pompiod;7.2653;5063348 m;No;670;CF
 102;2520;Quart - Ollignan;Dora Baltea;Quart;Mont-Emilius;373600 m;45.7477;Ollignan;7.37392;5067503 m;No;650;CF
 103;2530;Saint-Pierre - Lago delle Rane;Dora Baltea;Saint-Pierre;Grand Paradis;358691 m;45.7636;Lago delle Rane;7.18172;5069592 m;No;2370;CF
-104;2560;Gressoney-Saint-Jean - lago di Seebna;torrente Lys;Gressoney-Saint-Jean;Walser;414897 m;45741;Lago di Seebna (Vallone Loo);7.90497;5066052 m;No;2270;CF
-105;3530;Bard - Albard;Dora Baltea;Bard;Mont-Rose;402609 m;45615;Albard;7.74982;5052230 m;No;662;CF
+104;2560;Gressoney-Saint-Jean - lago di Seebna;torrente Lys;Gressoney-Saint-Jean;Walser;414897 m;45.741;Lago di Seebna (Vallone Loo);7.90497;5066052 m;No;2270;CF
+105;3530;Bard - Albard;Dora Baltea;Bard;Mont-Rose;402609 m;45.615;Albard;7.74982;5052230 m;No;662;CF
 106;3550;Gressoney-la-Trinité - D'Ejola;torrente Lys;Gressoney-La-Trinité;Walser;408085 m;45.8561;D'Ejola;7.81496;5078941 m;Si;1837;CF
 107;3560;Roisan - Preyl;torrente Buthier;Roisan;Grand-Combin;369227 m;45.7819;Preyl;7.31667;5071390 m;No;935;CF
 108;3570;Brusson - Tchampats;torrente Evançon;Brusson;Evançon;400392 m;45.7622;Tchampats;7.71803;5068622 m;Si;1288;CF
