@@ -1,0 +1,26 @@
+21 marzo 2021
+Questi dati servono per il rapporto degli indicatori del clima, includendo:
+- serie storiche (1891-2015) fornite nel 2016 dal Centro funzionale
+- serie 1996-2020 scaricate a marzo 2021 dal Centro Funzionale della Valle d'Aosta.
+
+Le serie storiche sono di precipitazione 4:
+- serie con siteid 26 (prolunga la serie storica Gressoney-L.T., G004)
+- serie con siteid 83 (prolunga la serie storica Rhêmes-Notre-Dame - Chaudanne, G002)
+- serie con siteid 98 (prolunga la serie storica Aosta\S.Christophe, G001 )
+- serie con siteid 44 (prolunga la serie storica Pontboset, G003)
+
+Le serie storiche di temperatura sono 4:
+- serie con siteid 98 (prolunga la serie storica Saint-Christophe aeroporto, G005)
+- serie con siteid 31 (prolunga la serie storica Issime Grand-Praz, G006)
+- serie con siteid 57 (prolunga la serie storica Valgrisenche Diga, G007)
+- serie con siteid 106 (prolunga la serie storica Gressoney-L.T. D'Ejola, G008)
+
+Prima del 2021 i dati venivano scaricati e aggregati dalle 0 alle 24 o dalle 9 alle 9, questo in base alle serie per tener conto dei dati storici forniti dal Centro Funzionale. Queste diverse aggregazioni sono causa di confusione.
+
+A marzo 2021 i dati dal 1996 al 2020 sono stati tutti riscaricati e aggregati tra le 00 e le 24, per tutte le stazioni e per tutti i parametri (i dati di HisCentral avevano le temperatura per il periodo 9 -9 ).
+
+I dati dal 1996 al 2020 hanno:
+- sostituito tutti i dati già disponibili 
+- fornito nuovi dati (serie che non erano presenti in HisCentral non venivano acquisiti negli anni precedenti, ora invece sono stati scaricati tutti i dati disponibili).
+- i dati 1996 - 2020 hanno sostituito le serie storiche disponibili (serie che teoricamente vanno dal 1891 al 2015) dal periodo 1996 al 2020 ovvero i dati delle serie storiche sono stati mantenuti così come sono stati forniti dal Centro Funzionale. Infatti i dati storici sono piu' completi di quelli che si possono scaricare dal 1996 dal sito del Centro FUnzionale.
+

@@ -1,0 +1,85 @@
+SiteID;SiteCode;SiteName;Bacino;Comune;Comunità montana;Est;Latitude;Località;Longitude;Nord;Pluviometro riscaldato;Elevation;Rete
+1;1000;Arvier - Chamençon;Dora di Valgrisenche;Arvier;Grand-Paradis;352689 m;45.6783;Chamençon;7.10742;5060242 m;Si;1238;CF
+3;1020;Aymavilles - ponte Dora Baltea - Centrale idroelettrica;Dora Baltea;Aymavilles;Grand-Paradis;364072 m;45.7108;Centrale idroelettrica;7.25257;5063600 m;No;618;CF
+4;1030;Aymavilles - Vieyes;torrente Grand'Eyvia;Aymavilles;Grand-Paradis;363786 m;45.6497;Vieyes;7.2508;5056816 m;No;1139;CF
+5;1040;Bionaz - Place Moulin;torrente Buthier;Bionaz;Grand-Combin;383055 m;45.8997;Place Moulin;7.49137;5084208 m;No;1979;CF
+9;1080;Chamois - Lac de Lou;torrente Marmore;Chamois;Mont-Cervin;393141 m;45.8446;Lac de lou;7.62275;5077902 m;Si;2020;CF
+10;1090;Champdepraz - Chevrère;torrente Chalamy;Champdepraz;Evançon;392118 m;45.6835;Chevrère;7.61357;5060017 m;Si;1260;CF
+11;1100;Champdepraz - Ponte Dora Baltea;Dora Baltea;Champdepraz;Evançon;396798 m;45.6818;Ponte Dora Baltea;7.67371;5059749 m;No;370;CF
+12;1110;Champorcher - Chardonney;torrente Ayasse;Champorcher;Mont-Rose;391621 m;45.6206;Chardonney;7.60875;5053030 m;Si;1430;CF
+13;1120;Champorcher - Rifugio Dondena;torrente Ayasse;Champorcher;Mont-Rose;387168 m;45.6123;Rifugio Dondena;7.55184;5052194 m;No;2181;CF
+14;1130;Cogne - Crétaz;torrente Grand'Eyvia;Cogne;Grand-Paradis;370693 m;45.6145;Crétaz;7.34048;5052759 m;No;1470;CF
+15;1140;Cogne - Lillaz;torrente Grand'Eyvia;Cogne;Grand-Paradis;374654 m;45.5951;Lillaz;7.39184;5050517 m;Si;1613;CF
+16;1150;Cogne - Valnontey;torrente Grand'Eyvia;Cogne;Grand-Paradis;370360 m;45.5855;Valnontey;7.33708;5049535 m;Si;1682;CF
+17;1160;Cogne - Grand-Crot;torrente Grand'Eyvia;Cogne;Grand-Paradis;372735 m;45.588;Grand-Crot;7.36744;5049772 m;No;2279;CF
+18;1170;Courmayeur - Ferrachet;Dora di Ferret;Courmayeur;Valdigne-Mont-Blanc;346984 m;45.8668;Ferrachet;7.02754;5081340 m;No;2290;CF
+19;1190;Courmayeur - Lex Blanche;Dora di Veny;Courmayeur;Valdigne-Mont-Blanc;331991 m;45.7664;Lex Blanche;6.83826;5070560 m;No;2162;CF
+20;1200;Courmayeur - Mont de la Saxe;Dora Baltea;Courmayeur;Valdigne-Mont-Blanc;343313 m;45.817;Mont de la Saxe;6.98204;5075894 m;No;2076;CF
+21;1220;Courmayeur - Pré-de-Bard;Dora di Ferret;Courmayeur;Valdigne-Mont-Blanc;349957 m;45.8843;Pré-de-Bard;7.06523;5083214 m;No;2040;CF
+22;1230;Fénis - Clavalité;torrente Clavalité;Fénis;Mont-Emilius;383324 m;45.686;Clavalité;7.50058;5060455 m;No;1531;CF
+23;1240;Fénis - Lavodilec;torrente Clavalité;Fénis;Mont-Emilius;382035 m;45.6448;Lavodilec;7.48514;5055901 m;No;2250;CF
+24;1250;Gressan - Pila-Leissé;Dora Baltea;Gressan;Mont-Emilius;368343 m;45.6643;Pila-Leissé;7.30885;5058342 m;No;2280;CF
+25;1260;Gressoney-la-Trinité - Alpe Courtlys;torrente Lys;Gressoney-La-Trinité;Walser;407535 m;45.8683;Alpe Courtlys;7.80761;5080305 m;No;1992;CF
+26;1270;Gressoney-la-Trinité - Eselbode;torrente Lys;Gressoney-La-Trinité;Walser;408890 m;45.8306;Eselbode;7.82587;5076090 m;Si;1642;CF
+27;1280;Gressoney-la-Trinité - Gabiet;torrente Lys;Gressoney-La-Trinité;Walser;410705 m;45.8522;Gabiet;7.84879;5078465 m;No;2379;CF
+29;1300;Gressoney-Saint-Jean - Weissmatten;torrente Lys;Gressoney-Saint-Jean;Walser;408692 m;45.7484;Weissmatten;7.82505;5066969 m;Si;2038;CF
+30;1310;Hône - Ponte Dora Baltea;Dora Baltea;Hône;Mont-Rose;401842 m;45.6172;Ponte Dora Baltea;7.73993;5052488 m;Si;340;CF
+31;1320;Issime - Capoluogo;torrente Lys;Issime;Walser;411019 m;45.6873;Capoluogo;7.85621;5060138 m;Si;960;CF
+33;1340;La Thuile - La Grande Tête;torrente Ruitor;La Thuile;Valdigne-Mont-Blanc;337789 m;45.6837;La Grande Tête;6.91591;5061212 m;No;2430;CF
+34;1360;La Thuile - Villaret;torrente Ruitor;La Thuile;Valdigne-Mont-Blanc;340992 m;45.7095;Villaret;6.95609;5064003 m;Si;1488;CF
+35;1370;Lillianes - Granges;torrente Lys;Lillianes;Mont-Rose;410983 m;45.6283;Granges;7.85695;5053584 m;Si;1256;CF
+37;1390;Morgex - Lavancher;Dora Baltea;Morgex;Valdigne-Mont-Blanc;346213 m;45.7952;Lavancher;7.02014;5073400 m;No;2842;CF
+40;1430;Nus - Les Iles;Dora Baltea;Nus;Mont-Emilius;378580 m;45.7389;Les Iles;7.43818;5066428 m;No;534;CF
+41;1440;Ollomont - By;torrente Buthier;Ollomont;Grand-Combin;368218 m;45.8814;By;7.30066;5082478 m;Si;2017;CF
+44;1470;Pontboset - Fournier;torrente Ayasse;Pontboset;Mont-Rose;397138 m;45.6046;Fournier;7.67989;5051162 m;Si;1087;CF
+45;1480;Pontey - Ponte Dora Baltea;Dora Baltea;Pontey;Mont-Cervin;392524 m;45.7412;ponte Dora Baltea;7.61737;5066427 m;No;473;CF
+46;1490;Pré-Saint-Didier - Capoluogo;Dora di La Thuile;Pré-Saint-Didier;Valdigne-Mont-Blanc;343841 m;45.7629;Capoluogo;6.99078;5069871 m;Si;996;CF
+47;1500;Pré-Saint-Didier - Plan Praz;Dora di La Thuile;Pré-Saint-Didier;Valdigne-Mont-Blanc;340838 m;45.7549;Plan-Praz;6.95245;5069054 m;No;2044;CF
+48;1520;Rhêmes-Notre-Dame - Chanavey;Dora di Rhêmes;Rhêmes-Notre-Dame;Grand-Paradis;353673 m;45.5788;Chanavey;7.12338;5049164 m;Si;1690;CF
+49;1530;Rhêmes-Saint-Georges - Feleumaz;Dora di Rhêmes;Rhêmes-Saint-Georges;Grand-Paradis;353677 m;45.607;Feleumaz;7.12249;5052293 m;No;2325;CF
+50;1550;Rhêmes-Saint-Georges - Capoluogo;Dora di Rhêmes;Rhêmes-Saint-Georges;Grand-Paradis;356133 m;45.6497;Capoluogo;7.15259;5056984 m;Si;1179;CF
+52;1570;Saint-Oyen - Moulin;torrente Artanavaz;Saint-Oyen;Grand-Combin;360932 m;45.8209;Moulin;7.20871;5075905 m;No;1310;CF
+54;1590;Saint-Rhémy-en-Bosses - Crévacol;torrente Artanavaz;Saint-Rhémy-en-Bosses;Grand-Combin;356850 m;45.8291;Crévacol;7.15589;5076908 m;Si;2018;CF
+55;1600;Saint-Rhémy-en-Bosses - Gran San Bernardo;torrente Artanavaz;Saint-Rhémy-en-Bosses;Grand-Combin;356779 m;45.8695;Col Grand-Saint-Bernard;7.15363;5081406 m;No;2360;CF
+56;1610;Saint-Rhémy-en-Bosses - Mont-Botsalet;torrente Artanavaz;Saint-Rhémy-en-Bosses;Grand-Combin;356350 m;45.8414;Mont-Botsalet;7.14905;5078286 m;No;2500;CF
+57;1620;Valgrisenche - Menthieu;Dora di Valgrisenche;Valgrisenche;Grand-Paradis;348237 m;45.6137;Menthieu;7.0525;5053168 m;Si;1859;CF
+58;1630;Valpelline - Chosoz;torrente Buthier;Valpelline;Grand-Combin;371116 m;45.8269;Chosoz;7.33963;5076358 m;Si;1029;CF
+60;1650;Valsavarenche - Eaux-Rousses;torrente Savara;Valsavarenche;Grand-Paradis;360272 m;45.5668;Eaux-Rousses;7.20835;5047673 m;Si;1651;CF
+62;1670;Valsavarenche - Orvieille;torrente Savara;Valsavarenche;Grand-Paradis;359026 m;45.5799;Orvieille;7.19196;5049161 m;No;2170;CF
+63;1690;Valtournenche - Cime Bianche;torrente Marmore;Valtournenche;Mont-Cervin;398610 m;45.9182;Cime Bianche;7.69146;5085987 m;No;3100;CF
+64;1700;Valtournenche - Lago Goillet;torrente Marmore;Valtournenche;Mont Cervin;396405 m;45.9313;Lago Goillet;7.66271;5087484 m;Si;2541;CF
+65;1710;Valtournenche - Grandes Murailles;torrente Marmore;Valtournenche;Mont Cervin;391771 m;45.9295;Grandes Murailles;7.60298;5087361 m;No;2566;CF
+66;1720;Valtournenche - Maen;torrente Marmore;Valtournenche;Mont-Cervin;392273 m;45.8626;Maen;7.61112;5079914 m;No;1310;CF
+67;1730;Ayas - Alpe Aventine;torrente Evançon;Ayas;Evançon;400685 m;45.874;Alpe Aventine;7.71923;5081040 m;No;2080;CF
+68;1740;"Pré-Saint-Didier - Capoluogo ""Valle""";Dora Baltea;Pré-Saint-Didier;Valdigne-Mont-Blanc;343929 m;45.7632;Ponte di Mombardone;6.9919;5069894 m;No;995;CF
+77;3000;Verrès - Capoluogo;Dora Baltea;Verrès;Evançon;397732 m;45.6651;Capoluogo;7.6861;5057882 m;Si;375;CF
+78;3010;Saint-Denis - Raffort;Dora Baltea;Saint-Denis;Mont-Cervin;389355 m;45.7499;Raffort;7.57641;5067441 m;Si;840;CF
+79;3020;Villeneuve - S.R. Saint-Nicolas;Dora Baltea;Villeneuve;Grand-Paradis;360547 m;45.7074;S.R. Saint-Nicolas;7.20739;5063300 m;Si;839;CF
+80;3030;Morgex - Capoluogo;Dora Baltea;Morgex;Valdigne-Mont-Blanc;347538 m;45.7584;Capoluogo;7.03848;5069275 m;Si;938;CF
+81;3040;Gressoney-Saint-Jean - Bieltschocke;torrente Lys;Gressoney-Saint-Jean;Walser;409345 m;45.7674;Bieltschocke;7.83305;5069066 m;Si;1370;CF
+82;3050;Champorcher - Petit-Mont-Blanc;torrente Ayasse;Champorcher;Mont-Rose;391685 m;45.6247;Petit-Mont-Blanc;7.60947;5053489 m;Si;1640;CF
+83;3060;Rhêmes-Notre-Dame - Chaudanne;Dora di Rhêmes;Rhêmes-Notre-Dame;Grand-Paradis;352873 m;45.5604;Chaudanne;7.11374;5047140 m;Si;1794;CF
+84;3070;Valsavarenche - Pont;torrente Savara;Valsavarenche;Grand-Paradis;359594 m;45.5268;Pont;7.20093;5043251 m;Si;1951;CF
+85;3080;Nus - Saint-Barthélemy - Osservatorio;torrente Saint-Barthélemy;Nus;Mont-Emilius;381790 m;45.79;Saint-Barthélemy;7.47806;5072038 m;Si;1675;CF
+88;3110;Courmayeur - Dolonne;Dora di Courmayeur;Courmayeur;Valdigne-Mont-Blanc;342036 m;45.7945;Dolonne;6.96642;5073422 m;Si;1200;CF
+89;3120;Saint-Vincent - Terme;Dora Baltea;Saint-Vincent;Mont-Cervin;395281 m;45.7495;Terme;7.6526;5067300 m;Si;626;CF
+96;3590;Valtournenche - Breuil Cervinia;torrente Marmore;Valtournenche;Mont-Cervin;393577 m;45.9314;Breuil Cervinia;7.62623;5087539 m;Si;1998;CF
+97;3600;Ayas - Champoluc;torrente Evançon;Ayas;Evançon;401316 m;45.8368;Ayas;7.72821;5076897 m;Si;1566;CF
+98;4090;Saint-Christophe - Aeroporto;Dora Baltea;Saint-Christophe;Mont-Emilius;372766 m;45.7393;Aeroporto;7.36344;5066581 m;Si;545;CF
+99;1760;Hône - Ayasse;torrente Ayasse;Hône;Mont-Rose;401274 m;45.6117;Capoluogo;7.73277;5051890 m;No;367;CF
+100;2500;Arvier - Cooperativa Enfer;Dora Baltea;Arvier;Grand-Paradis;357318 m;45.705;Cooperativa Enfer;7.16599;5063106 m;No;738;CF
+101;2510;Jovençan - Pompiod;Dora Baltea;Jovençan;Grand-Paradis;365058 m;45.7087;Pompiod;7.2653;5063348 m;No;670;CF
+102;2520;Quart - Ollignan;Dora Baltea;Quart;Mont-Emilius;373600 m;45.7477;Ollignan;7.37392;5067503 m;No;650;CF
+103;2530;Saint-Pierre - Lago delle Rane;Dora Baltea;Saint-Pierre;Grand Paradis;358691 m;45.7636;Lago delle Rane;7.18172;5069592 m;No;2370;CF
+104;2560;Gressoney-Saint-Jean - lago di Seebna;torrente Lys;Gressoney-Saint-Jean;Walser;414897 m;45.741;Lago di Seebna (Vallone Loo);7.90497;5066052 m;No;2270;CF
+105;3530;Bard - Albard;Dora Baltea;Bard;Mont-Rose;402609 m;45.615;Albard;7.74982;5052230 m;No;662;CF
+106;3550;Gressoney-la-Trinité - D'Ejola;torrente Lys;Gressoney-La-Trinité;Walser;408085 m;45.8561;D'Ejola;7.81496;5078941 m;Si;1837;CF
+107;3560;Roisan - Preyl;torrente Buthier;Roisan;Grand-Combin;369227 m;45.7819;Preyl;7.31667;5071390 m;No;935;CF
+108;3570;Brusson - Tchampats;torrente Evançon;Brusson;Evançon;400392 m;45.7622;Tchampats;7.71803;5068622 m;Si;1288;CF
+109;4000;Aosta - Piazza Plouves;Dora Baltea;Aosta;-;369669 m;45.7369;Piazza Plouves;7.32372;5066377 m;Si;580;Arpa
+110;4020;Aosta - Mont-Fleury;Dora Baltea;Aosta;-;367733 m;45.7305;Montfleury;7.29903;5065715 m;No;577;Arpa
+111;4050;La Thuile - Les Granges;torrente Ruitor;La Thuile;Valdigne Mont-Blanc;341884 m;45.7297;Les Granges;6.96684;5066222 m;Si;1637;Arpa
+112;4070;Cogne - Gimillan;torrente Grand'Eyvia;Cogne;Grand-Paradis;371884 m;45.6157;Gimillan;7.35575;5052868 m;Si;1785;Arpa
+113;4080;Etroubles - Chevrière;torrente Artanavaz;Etroubles;Grand-Combin;362790 m;45.8167;Collina;7.23278;5075402 m;Si;1339;Arpa
+114;4100;Saint-Marcel - Surpian;Dora Baltea;Saint-Marcel;Mont-Emilius;379073 m;45.7366;Surpian;7.44461;5066163 m;Si;540;CF
+115;4110;Donnas - Clapey;Dora Baltea;Donnas;Mont-Rose;403871 m;45.5966;Clapey;7.76643;5050162 m;Si;341;Arpa

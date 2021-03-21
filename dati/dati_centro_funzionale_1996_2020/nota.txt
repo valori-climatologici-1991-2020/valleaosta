@@ -1,0 +1,5 @@
+17 marzo 2021
+
+Dati giornalieri ottenuti aggregando i dati orari del Centro Funzionale della Valled'Aosta (https://cf.regione.vda.it/).
+
+I dati orari sono stati scaricati manualmente (ovvero senza RSelenium) dal 1996 al 2020 (vanno scaricate circa 27 stazioni alla volta per non avere errori da parte del sito web). 
