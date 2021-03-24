@@ -25,12 +25,14 @@ SiteID;SiteCode;SiteName;Bacino;Comune;Comunità montana;Est;Latitude;Località;
 29;1300;Gressoney-Saint-Jean - Weissmatten;torrente Lys;Gressoney-Saint-Jean;Walser;408692 m;45.7484;Weissmatten;7.82505;5066969 m;Si;2038;CF
 30;1310;Hône - Ponte Dora Baltea;Dora Baltea;Hône;Mont-Rose;401842 m;45.6172;Ponte Dora Baltea;7.73993;5052488 m;Si;340;CF
 31;1320;Issime - Capoluogo;torrente Lys;Issime;Walser;411019 m;45.6873;Capoluogo;7.85621;5060138 m;Si;960;CF
+32;1330;La_Thuile_-_Foillex;;;;;45.71730042;;6.971260071;;;1912;NA
 33;1340;La Thuile - La Grande Tête;torrente Ruitor;La Thuile;Valdigne-Mont-Blanc;337789 m;45.6837;La Grande Tête;6.91591;5061212 m;No;2430;CF
 34;1360;La Thuile - Villaret;torrente Ruitor;La Thuile;Valdigne-Mont-Blanc;340992 m;45.7095;Villaret;6.95609;5064003 m;Si;1488;CF
 35;1370;Lillianes - Granges;torrente Lys;Lillianes;Mont-Rose;410983 m;45.6283;Granges;7.85695;5053584 m;Si;1256;CF
 37;1390;Morgex - Lavancher;Dora Baltea;Morgex;Valdigne-Mont-Blanc;346213 m;45.7952;Lavancher;7.02014;5073400 m;No;2842;CF
 40;1430;Nus - Les Iles;Dora Baltea;Nus;Mont-Emilius;378580 m;45.7389;Les Iles;7.43818;5066428 m;No;534;CF
 41;1440;Ollomont - By;torrente Buthier;Ollomont;Grand-Combin;368218 m;45.8814;By;7.30066;5082478 m;Si;2017;CF
+42;1450;Pollein_-_Grande_Place;;;;;45.7356987;;7.360010147;;;549;NA
 44;1470;Pontboset - Fournier;torrente Ayasse;Pontboset;Mont-Rose;397138 m;45.6046;Fournier;7.67989;5051162 m;Si;1087;CF
 45;1480;Pontey - Ponte Dora Baltea;Dora Baltea;Pontey;Mont-Cervin;392524 m;45.7412;ponte Dora Baltea;7.61737;5066427 m;No;473;CF
 46;1490;Pré-Saint-Didier - Capoluogo;Dora di La Thuile;Pré-Saint-Didier;Valdigne-Mont-Blanc;343841 m;45.7629;Capoluogo;6.99078;5069871 m;Si;996;CF
